@@ -1,7 +1,3 @@
-To run a Python file using ngrok, you typically use ngrok to expose a local server or application to the internet. Here’s how you can integrate this into your README file:
-
----
-
 # AI Image Recognition Android Demo App
 
 This repository contains an Android demo application that utilizes AI for image recognition. The app allows users to classify images and provides information based on the recognized content.
@@ -79,8 +75,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-For questions or feedback, please contact [your email].
-
----
-
-This README now includes instructions for running the Python server using ngrok and integrating it with your Android application for API requests. Adjust the port number (`5000` in this example) and paths according to your specific setup.
+For questions or feedback, please contact mohamedkhalil.bcir@polytechnicien.tn.
